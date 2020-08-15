@@ -1,1 +1,3 @@
-# launchbar-actions
+# LaunchBar Actions
+
+- Toogle Bluetooth
